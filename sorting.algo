@@ -1,0 +1,28 @@
+ALGORITHM sumOfDistinctElements
+VAR
+    arr,sum,set1,set2,commonArr := INTEGER
+    sum := 0;INTEGER
+BEGIN
+    READ arr := [[3,1,7,9], [2,4,1,9,3]];
+        FOR i FROM 0 TO arr.length STEP step  DO
+        set1 := arr[0];
+        set2 := arr[1];
+
+    IF (set1[i] == set2[i]) THEN
+        commonArr := sum + arr[i]
+    ELSE
+        display [arr[i]]
+    END_IF
+    END_FOR
+END
+
+
+// PROBLEM 2
+
+PROCEDURE dot_product(parameters)
+VAR
+    ps(dot scalar)
+    vl,v2,IR,n:= INTEGER
+BEGIN
+    set_instructions
+END

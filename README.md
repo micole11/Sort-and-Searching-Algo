@@ -1,1 +1,1 @@
-# Algorithm-sorting-Searching
+# Sort-and-Searching-Algo
